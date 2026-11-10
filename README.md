@@ -29,12 +29,12 @@ O sistema foi concebido para suportar a operação completa de uma plataforma de
 ---
 
 ## 👥 Integrantes do Grupo (Projeto Integrador)
-* **Eduardo de Mattos Borges** — RGM: `04950253-1`
-* **Kauã Justino da Silva** — RGM: `50011944`
-* **Julia Morales Ferreira** — RGM: `48208043`
-* **Davi Guimarães da Silva** — RGM: `48163872`
-* **Mateus Moreira** — RGM: `49827189`
-* **Jennifer Santos** — RGM: `04981472-9`
+* **Eduardo de Mattos Borges** — 
+* **Kauã Justino da Silva** — 
+* **Julia Morales Ferreira** —
+* **Davi Guimarães da Silva** —
+* **Mateus Moreira** —
+* **Jennifer Santos** — 
 
 ---
 
