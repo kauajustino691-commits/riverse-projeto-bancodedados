@@ -26,6 +26,7 @@ O sistema foi concebido para suportar a operação completa de uma plataforma de
 * `/docs`: Documentação técnica completa e apresentação profissional em formato PDF.
 * `/sql`: Scripts DDL (criação de tabelas e restrições), DML (povoamento inicial com dados de teste) e DQL (consultas de validação e relatórios gerenciais).
 
+
 ---
 
 ## 👥 Integrantes do Grupo (Projeto Integrador)
